@@ -1,0 +1,1 @@
+blog sample using next.js
